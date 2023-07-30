@@ -1,0 +1,15 @@
+body{
+    background-color: darkslategray;
+    color:darkcyan; 
+}
+img{
+    width: 300px;
+}
+
+a{
+    color: darkolivegreen;
+}
+a:hover{
+    color: chartreuse;
+    font-weight: bold;
+}
